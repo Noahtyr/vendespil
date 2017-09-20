@@ -17,9 +17,18 @@
  }
 
  img {
-     max-width: 100px;
+     max-width: 125px;
  }
 
  img:hover {
      border: 3px #a1a1a1 solid;
  }
+
+.turned {
+    border: 3px red solid;
+    max-width: 94px;
+}
+
+.hidden {
+    display: none;
+}
