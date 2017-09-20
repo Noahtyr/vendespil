@@ -1,0 +1,25 @@
+
+
+
+.title {
+    font-size: 50px;
+    font-variant: small-caps;
+}
+
+.p1 {
+    font-size: 25px;
+    font-variant: full-width;
+}
+
+ body {
+     background-color: #5975ff;
+     background-image:url("https://qzprod.files.wordpress.com/2016/12/apple-aerial-apple-tv-screensaver.png");
+ }
+
+ img {
+     max-width: 100px;
+ }
+
+ img:hover {
+     border: 3px #a1a1a1 solid;
+ }
